@@ -1,9 +1,9 @@
 <div class="container">
-  <h1>Teddies</h1>
+  <h1 class="text-center text-white">Harrie's Teddies</h1>
   <div class="row">
     <% @teddies.each do |teddy| %>
       <div class="col-6 col-md-4">
-        <div class="card">
+        <div class="card m-2">
           <%= image_tag teddy.photo_url , class: "card-img-top" %>
           <div class="card-body">
             <h5 class="card-title"><%= teddy.name %></h5>
