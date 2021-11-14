@@ -1,33 +1,48 @@
+## TEDDIES STORE
 A basic fullstack e-commerce project built with Postgres, Ruby on Rails.
 
 ## API Documentation    return
 
 ## Demo    return
 
-[Run demo]
-(https://teddies-purchase.herokuapp.com/)
+[Run demo](https://teddies-purchase.herokuapp.com/)
 
 ## Run Locally   return
 
 Clone the project
-(`git clone git@github.com:Harrytimbog/teddies_shop.git`)
+
+``` console
+git clone git@github.com:Harrytimbog/teddies_shop.git
+```
 
 Go to the project directory
-(`cd teddies_shop`)
+
+``` console
+cd teddies_shop
+```
 
 Install dependencies
-(`npm install`)
+
+``` console
+npm install
+```
 
 Install gems
-(`bundle install`)
+
+``` console
+bundle install
+```
 
 Start Server
-(`rails s`)
+
+``` console
+rails s
+```
 
 
 ## Environmental Variables  return
 
-# .env
+### .env
 
 STRIPE_PUBLISHABLE_KEY
 
