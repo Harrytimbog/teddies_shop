@@ -1,13 +1,13 @@
 ## TEDDIES STORE
 A basic fullstack e-commerce project built with Postgres, Ruby on Rails.
 
-## API Documentation    return
+## Documentation    
 
-## Demo    return
+## Demo    
 
 [Run demo](https://teddies-purchase.herokuapp.com/)
 
-## Run Locally   return
+## Run Locally   
 
 Clone the project
 
@@ -40,7 +40,7 @@ rails s
 ```
 
 
-## Environmental Variables  return
+## Environmental Variables  
 
 ### .env
 
@@ -50,7 +50,7 @@ STRIPE_SECRET_KEY
 
 STRIPE_WEBHOOK_SECRET_KEY
 
-## Feedback  return
+## Feedback  
 
 Arigbede Timilehin Emmanuel - @Harrytimbog - harriemannie@gmail.com
 
